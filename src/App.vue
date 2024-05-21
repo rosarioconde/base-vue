@@ -5,8 +5,7 @@ import UsersComponent from './components/UsersComponent.vue';
 
 <template>
   <ParentComponent />
-
-  <!-- <UsersComponent /> -->
+   <UsersComponent />
 
 </template>
 
